@@ -1,17 +1,12 @@
 # Creating Items
 
-As you find items to include in your site, you’ll upload and describe them. For streaming audiovisual material (like YouTube videos), see this Embed Items guide. For all other items use the steps here:
-Click into the “Items” section of the admin interface
-Click the green “Add An Item” button.
-The first section to fill out is the Dublin Core page.
-            This is where you add information that describes your item according
-            to this metadata guide.
-           
-
+Items are the fundamental building block for Omeka. For streaming audiovisual material (like YouTube videos), see this Embed Items guide. For all other items use the steps here:
+* Click on “Items” on the left side of the admin interface
+* Click the green “Add An Item” button.
+* The first section to fill out is the Dublin Core page. This is where you add information that describes your item according to your project's metadata guide.
 
 The next section to fill out is the Item Type Metadata section. 
 Select an appropriate item type from the dropdown box and then fill out as many of the resulting fields as you can.
-
 
 Finally, you’ll upload files for your item. 
 Browse for the files you wish to upload.
