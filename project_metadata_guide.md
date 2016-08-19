@@ -1,2 +1,14 @@
 # Project Metadata Guide
 
+| Fields | Project Use | Example |
+| -- | -- | -- |
+| Title | Item Title (Title of Object) | New Temple Watt Munisotaram |
+| Subject | Tradition, Project | Buddhism, Watt Munisotaram |
+| Description | [...] | This temple was built from 2002 to 2007 and cost 1.58 million dollars. It has two stories: the top story is for meditation and chanting for monks and the bottom story is for celebrations.  |
+| Creator | Project Author | [your name] |
+| Publisher | Religion Department (Carleton College) | Religion Department (Carleton College) |
+| Date | Date originally published  | 3/18/12 |
+| Contributor | Editors | Shana Sippy, Colin MacArthur |
+| Rights | Information about rights held in and over the resource. Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. | [...] |
+
+
