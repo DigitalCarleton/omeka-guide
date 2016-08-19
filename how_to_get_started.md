@@ -1,6 +1,5 @@
 # How to Get Started in Omeka.net
 
-
 ## Create an Omeka Account
 
 Set up your Omeka account:
@@ -13,12 +12,14 @@ Set up your Omeka account:
 ## Log into your Omeka Site (professors)
 
 Request a new Omeka.net site:
-* Email Celeste Sharpe ([csharpe@carleton.edu](mailto:csharpe@carleton.edu)) in Academic Technology
+* Email Celeste Sharpe ([csharpe@carleton.edu](mailto:csharpe@carleton.edu)) in Academic Technology and she will create a new site in consultation with you.
+* You'll get an email from Omeka with a link to accept the invitation. (If you don’t see this email, check your Spam folder.) Once you have accepted the invitation, log into: **[Insert link to admin interface for the site]**
 
 
 ## Log into your Omeka Site (students)
 
-When your professor sends out the invitations, you’ll get an email from Omeka with a link to accept the invitation. (If you don’t see this email, check your Spam folder.) Once you have accepted the invitation, log in to this site: **[Insert link to admin interface for the site]**
+When your professor sends out the invitations, you’ll get an email from Omeka with a link to accept the invitation. (If you don’t see this email, check your Spam folder.) Once you have accepted the invitation, log into: **[Insert link to admin interface for the site]**
 
 
-
+*by Iris Jastram
+*
