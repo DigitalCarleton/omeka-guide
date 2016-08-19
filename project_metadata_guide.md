@@ -11,4 +11,10 @@
 | Contributor | Editors | Shana Sippy, Colin MacArthur |
 | Rights | Information about rights held in and over the resource. Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. | [...] |
 
+##Item Type Metadata
+
+##Tags
+| Type | Possibilities |
+| -- | -- |
+| Religious Tradition | Buddhism, Christianity, Hinduism |
 
