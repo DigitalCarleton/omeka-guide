@@ -6,7 +6,7 @@ Omeka (pronounced oh-MEH-kah) is a tool that lets researchers create digital lib
 
 ## Which version do you need?
 
-There are two main versions: [Omeka.net](http://www.omeka.net/) (which they host and maintain) and [Omeka Classic](http://omeka.org/). 
+There are two main versions: [Omeka.net](http://www.omeka.net/) (which is hosted and updated by the Omeka team) and [Omeka Classic](http://omeka.org/) (self-installed version). 
 
 COMPARISON CHART
 
