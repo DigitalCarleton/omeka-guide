@@ -1,4 +1,6 @@
 # Project Metadata Guide
+This page contains the guiding metadata information for the project, as well as examples for those contributing to the site.
+
 ##Dublin Core Fields
 | Fields | Project Use | Example |
 | -- | -- | -- |
