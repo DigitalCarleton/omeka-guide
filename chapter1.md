@@ -13,7 +13,7 @@ COMPARISON CHART
 
 ## Suggested workflow
 
-We suggest that projects start in Omeka.net to best figure out if Omeka really is the right platform for the project. Everything you do in Omeka.net can be migrated easily to Omeka.org should you decide you want to expand your scope so there's no harm in starting in the stable hosted version. For help figuring out which version is best for your project, please email or call Celeste Sharpe (csharpe@carleton.edu, x5245).  
+We suggest that projects start in Omeka.net to best figure out if Omeka really is the right platform for the project. Everything you do in Omeka.net can be migrated easily to Omeka.org should you decide you want to expand your scope so there's no harm in starting in the stable hosted version. For help figuring out which version is best for your project, please email or call Celeste Sharpe ([csharpe@carleton.edu](mailto:csharpe@carleton.edu), x5245).  
 
 
 
