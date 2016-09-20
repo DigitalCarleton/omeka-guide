@@ -8,6 +8,7 @@ Items are the fundamental building block for Omeka. For all other items use the 
 * Click the green “Add An Item” button.
 
 Now it's time to describe your item by adding metadata. We'll work through all 4 available options from left to right. 
+
 ![](metadatatabs.png)
 1. Dublin Core: Add information about your item according to your Project's Metadata Guide.
 2. Item Type Metadata: Select the appropriate item type from the dropdown menu and fill in the relevant fields according to your Project's Metadata Guide.
@@ -27,6 +28,7 @@ Finally, click “Add Item” and you’re done!
 * Click the green “Add An Item” button
 
 Now it's time to describe your item by adding metadata. We'll work through all 4 available options from left to right. 
+
 ![](metadatatabs.png)
 * Dublin Core: Add information about your item according to your Project's Metadata Guide.
 * Item Type Metadata: Select "Moving Image." A box called URL will appear. Click the “Use HTML” checkbox under this URL box. In the URL box, paste the URL where the audiovisual material can be found online. Click the icon that looks like a chain link.![](omekamedialink.png) 
