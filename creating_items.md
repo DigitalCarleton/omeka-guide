@@ -4,7 +4,7 @@
 Items are the fundamental building block for Omeka. For all other items use the steps here:
 
 
-* Click on “Items” on the left side of the admin interface
+* Click “Items” on the left side of the admin interface
 * Click the green “Add An Item” button.
 
 Now it's time to describe your item by adding metadata. We'll work through all 4 available options from left to right. 
