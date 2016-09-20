@@ -9,7 +9,7 @@ Items are the fundamental building block for Omeka. For all other items use the 
 
 Now it's time to describe your item by adding metadata. We'll work through all 4 available options from left to right. 
 
-![](metadatatabs.png)
+  ![](metadatatabs.png)
 1. Dublin Core: Add information about your item according to your Project's Metadata Guide.
 2. Item Type Metadata: Select the appropriate item type from the dropdown menu and fill in the relevant fields according to your Project's Metadata Guide.
 3. Files: Click "browse" and upload the digital file(s) for your item. Omeka allows you to associate multiple files with a single item. 
