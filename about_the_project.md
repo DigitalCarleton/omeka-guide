@@ -1,4 +1,4 @@
-# About the Project
+#Project Information
 This page describes the roles and work of project contributors, and different iterations of project development. 
 ##Project Team
 Project Director/Principal Investigator:
